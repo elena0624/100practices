@@ -8,4 +8,4 @@
 >> 組合熱鍵： `pyautogui.hotkey('ctrl', 'c')`  
 --  
 > 其他：  
->> [PyAutoGUI用法](https://pypi.python.org/pypi/PyAutoGUI)
+>> [PyAutoGUI官方用法](https://pypi.python.org/pypi/PyAutoGUI)
