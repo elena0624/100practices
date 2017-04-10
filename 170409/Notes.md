@@ -18,9 +18,8 @@
   `for i in range(10, 0, -1):`
 
 * 下一步
-  * 把路徑移到anaconda外
   * 撰寫自動連結wifi腳本
-  * 未來還能變成視窗程式，介面輸入間隔秒數、持續時間、開始及停止按鈕
+  * 新增介面輸入間隔秒數、持續時間、開始及停止按鈕
 
 ## 參考資料
 * [Python控制鼠标和键盘-PyAutoGUI](http://blog.topspeedsnail.com/archives/5373)
