@@ -16,5 +16,9 @@
   * python for迴圈語法? 
   `for i in range(10, 0, -1):`
 
+* 下一步
+  * 把路徑移到anaconda外
+  * 撰寫自動連結wifi腳本
+
 ## 參考資料
 * [Python控制鼠标和键盘-PyAutoGUI](http://blog.topspeedsnail.com/archives/5373)
