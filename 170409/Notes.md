@@ -7,7 +7,7 @@
 * 程式撰寫部分  
   
   * prtscreen的熱鍵名稱? 不是 Ptr Sc
-  * python script如何中止?
+  * python script如何中止？ 狂按ctrl+C
   * 中間間隔幾秒不能用moveTo，否則會失去滑鼠自由
   * python for迴圈語法?  
   `for i in range(10, 0, -1):`
