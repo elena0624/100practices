@@ -19,3 +19,11 @@ x,y, a,b = pyautogui.locateOnScreen(im)
 ```
 
 * 鍵入密碼
+  * `pyautogui.typewrite('密碼')`
+
+* 更多參考資料
+  * [Doc PyAutoGUI](https://muxuezi.github.io/posts/doc-pyautogui.html)
+  * [有關screenshot1](https://automatetheboringstuff.com/chapter18/)
+  * [有關screenshot2](http://pyautogui.readthedocs.io/en/latest/screenshot.html)
+  
+* 再加入html等讀取就可以變成爬蟲了~ 下一步：存檔輸出、爬蟲....
