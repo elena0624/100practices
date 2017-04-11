@@ -25,5 +25,7 @@ x,y, a,b = pyautogui.locateOnScreen(im)
   * [Doc PyAutoGUI](https://muxuezi.github.io/posts/doc-pyautogui.html)
   * [有關screenshot1](https://automatetheboringstuff.com/chapter18/)
   * [有關screenshot2](http://pyautogui.readthedocs.io/en/latest/screenshot.html)
-  
+  
+* 困難：一開始按視窗建後總無法確定現在是中/英輸入法，有沒有簡單的判斷方式??
+  
 * 再加入html等讀取就可以變成爬蟲了~ 下一步：存檔輸出、爬蟲....
