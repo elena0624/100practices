@@ -7,7 +7,7 @@ Created on Tue Apr 11 00:52:37 2017
 
 import pyautogui
 import time
-
+time.sleep(5) #浪費3秒等他打開
 pyautogui.press('win')
 time.sleep(1) #浪費3秒等他打開
 pyautogui.typewrite('chrome')#要先確定輸入法是英文
@@ -25,14 +25,15 @@ pyautogui.press('win')
 time.sleep(1) #浪費3秒等他打開
 pyautogui.typewrite('pulse secure')
 pyautogui.press('enter')
-time.sleep(1) #浪費3秒等他打開
+time.sleep(3) #浪費3秒等他打開
 #pyautogui.screenshot('nctu.png')
 #x,y = pyautogui.locateOnScreen('nctu.png')
 #nctuButton = locateCenterOnScreen('nctu.png', grayscale=False)
 
-a,b,c,d = pyautogui.locateOnScreen(im)
+#a,b,c,d = pyautogui.locateOnScreen(im)
+a,b,c,d = pyautogui.locateOnScreen('nctu.png')
 pyautogui.moveTo(a+250,b+20)
 pyautogui.click()
-time.sleep(2)#等待很重要!!!!!
+time.sleep(3)#等待很重要!!!!!
 pyautogui.typewrite('49222ef9')
 pyautogui.press('enter')
