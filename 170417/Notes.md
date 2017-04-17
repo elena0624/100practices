@@ -7,6 +7,7 @@
     * 把VMware遠程存取的地方disabled掉，反正用不到
 * 跳出警告：
 > Deprecated: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead  
-    * PDO => php5以上擁有 到底怎麼用
+   * PDO => php5以上擁有 到底怎麼用
+   * 擁有物件導向的特性
 
 ## 
