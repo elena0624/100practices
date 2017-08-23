@@ -26,3 +26,15 @@ help(list.pop)
 * stri.split('2') 把string裡面想隔開的東西由2切成list
 # sets
 * 沒有順序沒有重複的元素 可用set()建立
+
+
+# numpy
+* np.random.randint
+* np.sort() 
+
+# pandas
+* 用在數據處理
+* series -一維的 ex.pd.Series(data, index=index) / pd.Series([1,2,3,3], index=['a','b','c','d'])
+* dataframe -二維的 ex.
+  * xy 軸都可以自己設label
+  * ex. pandas.DataFrame(data=None, index=None, columns=None, dtype=None)
