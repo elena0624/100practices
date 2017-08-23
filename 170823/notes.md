@@ -36,5 +36,5 @@ help(list.pop)
 * 用在數據處理
 * series -一維的 ex.pd.Series(data, index=index) / pd.Series([1,2,3,3], index=['a','b','c','d'])
 * dataframe -二維的 ex.
-  * xy 軸都可以自己設label
-  * ex. pandas.DataFrame(data=None, index=None, columns=None, dtype=None)
+  * xy 軸都可以自己設label
+  * ex. pandas.DataFrame(data=None, index=None, columns=None, dtype=None)
